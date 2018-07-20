@@ -1,24 +1,25 @@
 {
   "name": "prueba-levitha",
   "version": "1.0.0",
-  "description": "",
-  "main": "node.js",
+  "description": "hhgglghgggdg",
+  "main": "lib/alanPoe.js",
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
+  "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "library-test-laboratoria": "^1.0.1"
   },
-  "devDependencies": {},
+  "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lillys21/prueba-levitha.git"
+    "url": "https://github.com/Lillys21/prueba-levitha.git"
   },
-  "author": "",
+  "author": "lillys",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Lillys21/prueba-levitha/issues"
