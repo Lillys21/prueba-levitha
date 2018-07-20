@@ -2,15 +2,26 @@
   "name": "prueba-levitha",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "node.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/babel src --out-dir lib"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lillys21/prueba-levitha.git"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
-  }
+  "bugs": {
+    "url": "https://github.com/Lillys21/prueba-levitha/issues"
+  },
+  "homepage": "https://github.com/Lillys21/prueba-levitha#readme"
 }
