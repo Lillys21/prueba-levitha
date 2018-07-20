@@ -1,3 +1,3 @@
 const alanPoe =  require('library-test-laboratoria');
 
-console.log (alanPoe(6));
+console.log (alanPoe(5));
